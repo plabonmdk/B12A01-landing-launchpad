@@ -40,7 +40,7 @@ border: none;
 .action-section{
     width: 1100px;
     height: 328px;
-    background-color: #ffff;
+    background-color: #f9f9f9;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -92,4 +92,65 @@ border: none;
 .start-box p{
     font-size: 30px;
     color: #666;
+}
+.stars-card{
+    text-align: center;
+    padding: 50px;
+    background-color: #f9f9f9;
+}
+.stars-card h1{
+    font-size: 75px;
+    margin-bottom:30px ;
+}
+.st-crd{
+    display: flex;
+    justify-content:center;
+    gap: 40px;
+    flex-wrap: wrap;
+
+}
+.card{
+border: 6px solid #ddd;
+background: #fff;
+border-radius: 20px;
+width: 300px;
+padding: 20px;
+text-align: left;
+box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+}
+.stars{
+    display: flex;
+    gap: 4px;
+    margin-bottom: 10px;
+}
+.srars img{
+    width: 18px;
+    height: 18px;
+}
+.card h3{
+font-size: 18px;
+margin: 10px 0;
+}
+.card p{
+    font-size: 14px;
+    color: #444;
+}
+.reviewer{
+    display: flex;
+    align-items: center;
+    margin-top: 15px;
+}.reviewer img{
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+.reviewer-info{
+    font-size: 14px;
+}
+.flx{
+    display: flex;
+    text-align: center;
+    justify-content:center;
+    gap: 40px;
 }

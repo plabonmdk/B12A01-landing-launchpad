@@ -63,4 +63,33 @@ border: none;
      max-width:428px;
     overflow: hidden;
 }
-
+.Productive-Users-Section{
+    text-align: center;
+    padding: 60px 20px;
+    background-color: #4d47ff1a;
+    width: 1114px;
+    height: 306px;
+    margin-left: 70px;
+    border-radius: 30px;
+}
+.Productive-Users-Section h1{
+    font-size: 45px;
+    font-weight: 600;
+    margin-bottom: 60px;
+}
+.start{
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+}
+.start-box{
+    padding: 20px 30px;
+}
+.start-box h2{
+    font-size: 120px;
+    color: #4E47FF;
+}
+.start-box p{
+    font-size: 30px;
+    color: #666;
+}

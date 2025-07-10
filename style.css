@@ -154,3 +154,21 @@ margin: 10px 0;
     justify-content:center;
     gap: 40px;
 }
+.ofsonal{
+    width: 840px;
+    height: 364px;
+    text-align: center;
+    margin-left: 280px;
+}
+.ofsonal-info h1{
+font-size: 60px;
+margin-bottom: 15px;
+}
+.ofsonal-info p{
+    font-size: 20px;
+    color: #666;
+    margin-bottom: 15px;
+}
+.ofsonal-info img{
+    border-radius: 30px;
+}

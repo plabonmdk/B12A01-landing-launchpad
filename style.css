@@ -94,6 +94,9 @@ border: none;
     color: #666;
 }
 .stars-card{
+    margin-left: 30px;
+    width: 1100px;
+    height: 300px;
     text-align: center;
     padding: 50px;
     background-color: #f9f9f9;
@@ -154,25 +157,29 @@ margin: 10px 0;
     justify-content:center;
     gap: 40px;
 }
-/* .ofsonal{ */
+.ofsonal{
     width: 840px;
     height: 364px;
     text-align: center;
-    margin-left: 280px;
+    margin-left: 400px;
+    padding: 30px;
+    margin-top: 20px;
 }
-/* .ofsonal-info h1{ */
+.ofsonal-info h1{
 font-size: 60px;
 margin-bottom: 15px;
 }
-/* .ofsonal-info p{ */
+.ofsonal-info p{
     font-size: 20px;
     color: #666;
     margin-bottom: 15px;
 }
-/* .ofsonal-info img{ */
+.ofsonal-info img{
     border-radius: 30px;
 }
 .contact-saction{
+    width: 1000px;
+    height: 350px;
     margin-top: 209px;
     padding: 60px 20px;
     background-color: #f9f9f9;
@@ -197,17 +204,17 @@ margin-bottom: 15px;
     margin-top: 60%;
 }
 .contact-from{
-width: 100%;
+/* width: 100%; */
 height: 400px;
 }
 .contact-from form{
-    width: 100%;
+    /* width: 100%; */
     display: flex;
     flex-direction: column;
 
 }
 .contact-from label{
-    width: 100%;
+    /* width: 100%; */
     font-weight: bold;
     margin-bottom: 50px;
     margin-top: 30px;
@@ -235,7 +242,7 @@ input[type=text], select {
 .section-logo{
     text-align: center;
     font-family: Arial;
-    height: auto;
+    height: 340px;
     width: 800px;
     margin-left: 30%;
     border-radius: 50px;
